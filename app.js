@@ -32,7 +32,7 @@ var pool = mysql.createPool(
     connectionLimit : 25            // max pool connections
 });
 
-/**
+/** llll
  * Handles login process.  
  *
  * @param res     The server response
